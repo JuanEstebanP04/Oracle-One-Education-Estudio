@@ -127,3 +127,32 @@ td,th{
     border: 1px solid #000000;
     padding: 8px 15px;
 }
+
+/*Aquí inicia el CSS para nuestra home*/
+
+.banner{
+    width: 100%;
+}
+.tituloPrincipal{
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear:left
+}
+.principal p{
+    margin: 0 0 1em;
+}
+.principal strong{
+    font-weight: bold;
+}
+.principal em{
+    font-style: italic;
+}
+.utencilios{
+    width: 120px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+.imagenDiferenciales{
+    width: 60%;
+}
